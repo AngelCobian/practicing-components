@@ -5,7 +5,7 @@ import { Component, OnInit } from '@angular/core';
   // templateUrl: './warningmessage.component.html',
   template: `
   <p>warningmessage works!</p>
-  `;
+  `,
   styleUrls: ['./warningmessage.component.css']
 })
 export class WarningmessageComponent implements OnInit {
